@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">学习强社</string>
+    <string name="title_activity_begin_exam">答题</string>
+    <string name="title_activity_exam">抽题</string>
+</resources>
